@@ -14,5 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "aos-manager"
 include ':app'
-include ':logging'
-include ':sqlite'
